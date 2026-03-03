@@ -7,3 +7,4 @@ python-dotenv
 requests
 gunicorn 
 geopy
+deep_translator
